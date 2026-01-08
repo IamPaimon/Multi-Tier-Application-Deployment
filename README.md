@@ -1,6 +1,3 @@
-# Multi-Tier-Application-Deployment
-Designed and deployed a multi-tier architecture application with a strong emphasis on scalability, reliability, and automation.
-
 NOTES APP — MULTI-TIER (Frontend + Backend + MySQL)
 ===================================================
 
@@ -142,4 +139,3 @@ SUMMARY
 - Backend (Node.js) handles REST API and DB logic
 - MySQL database persists notes in Docker volume
 - Runs without docker-compose, but ready for production with orchestration
-<img width="1898" height="942" alt="notes-app" src="https://github.com/user-attachments/assets/692b54e0-622b-4939-a5b9-55a57bd27f52" />
